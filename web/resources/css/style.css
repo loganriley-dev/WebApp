@@ -1,0 +1,37 @@
+body {
+    background-color: lemonchiffon;
+}
+
+.wrapper {
+    margin: 50px;
+    background-color: azure;
+}
+
+#homeImg{
+    height: 200px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+
+#homeTitle{
+    font-family: Roboto;
+    margin-left : auto;
+    margin-right : auto;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+
+#homePara{
+    font-size: 20px;
+    font-family: Roboto;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.Header{
+    background-color: coral;
+}
